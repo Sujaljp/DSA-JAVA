@@ -2,7 +2,7 @@ package question.other;
 //https://leetcode.com/problems/remove-element/
 import java.util.Arrays;
 
-public class DelTheVal {
+public class RemoveElement {
     public static void main(String[] args) {
         int[] nums = {0,1,2,2,3,0,4,2};
         int val = 2;
